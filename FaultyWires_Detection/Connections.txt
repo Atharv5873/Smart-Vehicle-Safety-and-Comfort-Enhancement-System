@@ -1,0 +1,7 @@
+SDA - A4
+SCL - A3 
+Volatge Sensor Output - A2
+Current Sensor Output - A1
+Buzzer(+) - 3
+Buzzer(-) - GND
+No VCC For Voltage Sensor
