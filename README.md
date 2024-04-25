@@ -103,11 +103,9 @@ Contributions to this project are welcome. If you have ideas for improvements or
 This project is licensed under [MIT License](LICENSE). You are free to use, modify, and distribute the code and documentation as per the terms of the license.
 
 ## Authors
-- [Your Name] - Project Lead & Developer
-- [Contributor 1] - Sensor Integration & Testing
-- [Contributor 2] - Display Module Configuration & Optimization
+- Atharv Sharma - Project Lead & Developer
+- G Neeraj - Sensor Integration & Testing
+- Soham Pujari - Display Module Configuration & Optimization
 
 ## Acknowledgments
-Special thanks to [Organization/Company Name] for supporting this project and providing resources.
-
 For more information, refer to the detailed documentation in /docs.
